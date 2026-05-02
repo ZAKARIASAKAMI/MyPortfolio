@@ -1,0 +1,52 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.header{
+display: flex;
+justify-content: center;
+height: 80px;
+padding-top: 20px;
+}
+.logo{
+color:white;
+margin-right: 400px;
+margin-top: 7px;
+font-size: 30px;
+font-weight: bold;
+cursor: pointer;
+}
+
+span{
+color: #007bff;
+}
+
+.nav{
+display: flex;
+gap: 24px;
+font-weight: bold;
+}
+.nav a{
+color: white;
+text-decoration: none;
+margin-top: 10px;
+}
+.nav a:hover{
+color: #007bff;
+}
+
+.nav button{
+margin-left: 140px;
+margin-bottom: 15px;
+border-radius: 12px;
+width: 100px;
+background-color: #007bff;
+color: white;
+border: none;
+cursor: pointer;
+font-weight: bold;
+}
+.nav button:hover{
+color: black;
+}
