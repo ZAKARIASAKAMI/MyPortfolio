@@ -1,0 +1,28 @@
+.container{
+    padding: 70px;
+    border-radius: 8px;
+    margin: 20px auto;
+    color :white 
+}
+
+.container h1 {
+    color: #007bff;
+    font-size: 2.5em;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.container p {
+    font-size: 1.7em;
+    margin-left: 10px;
+}
+span {
+    color:white;
+}
+
+.paragraph1{
+    color: rgba(255, 255, 255, 0.438) ;
+    font-weight: bold;
+    font-size: 30px;
+}
+

@@ -1,3 +1,4 @@
+import About from "./componnents/About";
 import Accueill from "./componnents/Accueill";
 import Header from "./componnents/Header";
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Header />
       <Accueill />
+      <About />
     </div>
   );
 }
